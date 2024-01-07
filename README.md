@@ -5,4 +5,4 @@ Here you can find projects and code snippets I created while working my way thro
 All code is licensed under GNU General Public License v3.0.
 
 # Waypoint
-Currently at: https://doc.rust-lang.org/stable/book/ch03-05-control-flow.html
+Currently at: https://doc.rust-lang.org/stable/book/ch04-00-understanding-ownership.html
