@@ -1,5 +1,5 @@
 [package]
-name = "references_borrowing"
+name = "ch03-05-control-flow"
 version = "0.1.0"
 edition = "2021"
 

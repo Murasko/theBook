@@ -1,5 +1,5 @@
 [package]
-name = "data_types"
+name = "ch01-03-hello-cargo"
 version = "0.1.0"
 edition = "2021"
 
