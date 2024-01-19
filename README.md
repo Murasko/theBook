@@ -8,4 +8,4 @@ All code is licensed under GNU General Public License v3.0.
 
 ## Waypoint
 
-Currently at: https://doc.rust-lang.org/stable/book/ch04-00-understanding-ownership.html
+Currently at: https://doc.rust-lang.org/stable/book/ch05-01-defining-structs.html#defining-and-instantiating-structs
