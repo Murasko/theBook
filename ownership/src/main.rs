@@ -38,3 +38,9 @@ fn makes_copy(some_integer: i32) { // some_integer comes into scope
 fn takes_ownership(another_string: String) { // another_string comes into scope
     println!("{}", another_string); // This will print `hello`
 } // Here, another_string goes out of scope and `drop` is called. The backing memory is freed
+
+// You can also give Ownership by returning values from functions
+// The ownership of a variable follows the same pattern every time: assigning a value to another variable moves it. 
+// When a variable that includes data on the heap goes out of scope, the value will be cleaned up by drop unless the data has been moved to be owned by another variable.
+
+// Since we don't want to take and give back ownership every time we want to use a variable in a function, we can use references instead
